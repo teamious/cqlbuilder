@@ -3,9 +3,9 @@
 A light wrap over gocql library to help build/exec cql. 
 
 currently, it include:
-1. query/iter/
-2. exec upsert
-3. Has Execution manager for UT mock.
++ query/iter/
++ exec upsert
++ Has Execution manager for UT mock.
 
 # Here is a sample for iter
 
